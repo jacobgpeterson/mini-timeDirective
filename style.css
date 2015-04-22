@@ -1,0 +1,9 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	background-image: url("http://images.thecarconnection.com/lrg/tesla-model-s-by-unplugged-performance_100461529_l.jpg");
+	font-size: 40px;
+	color: white;
+	background-size: cover;
+	font-family: Lucida Calligraphy;
+}
